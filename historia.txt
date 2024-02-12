@@ -1,0 +1,2 @@
+vamos a iniciar a trabajar con Git
+ya esta hecha la configuracion 
