@@ -1,2 +1,4 @@
 vamos a iniciar a trabajar con Git
 ya esta hecha la configuracion 
+
+ahora vamos a trabajar un proyecto con html y css vamos a ir agregando datos
