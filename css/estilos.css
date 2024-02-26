@@ -3,4 +3,13 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-justify: distribute;
+    color: blue;
+}
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: lpx solid #000;
+    
 }
