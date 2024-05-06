@@ -28,3 +28,12 @@ body
     border: lpx solid #000;
 
 }
+
+#footer
+{
+    background: grey;
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
+    font-weight: bold;
+}
